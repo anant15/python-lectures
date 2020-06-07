@@ -61,7 +61,7 @@ if (a+c>b) and (b+c>a) and (a+b>c):
 else:
     print("Invalid")
 
-# to check, whether a triangle is equivalteral, isosceles, or scalene
+# to check, whether a triangle is equilateral, isosceles, or scalene
 if a == b and b == c and c == a:
     print("e")
 elif a == b or b == c or c == a:
