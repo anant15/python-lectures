@@ -75,8 +75,10 @@ if a < min:
     min = a
 if c < min:
     min = c
-if d < max:
+if d < min:
     min = d
+if e < min:
+    min = e
 print(min)
 
 
