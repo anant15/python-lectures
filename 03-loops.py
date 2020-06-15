@@ -13,8 +13,8 @@
 # print()
     
 # # print "hello world" 10 times
-# for i in range(11):
-#     print("Hello World")
+# for i in range(10):
+#     print("Hello World") #This will print 'Hello World' 10x times and i from 0 to 9 as index initialize from 0
 #     print(i)
 #
 # # print even numbers in [2, 100]
@@ -26,7 +26,7 @@
 # # multiples of 13 between [100, 200]
 # for num in range(100, 201):
 #     if num % 13 == 0:
-#         print(num, end=",")
+#         print(num, end=",")  #We are using end="," to make the consecutive output in the same line and not next line
 # print()
 # print("-"*20)
 
